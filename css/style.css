@@ -64,7 +64,7 @@ section {
 #menu > ul > .list-item > a:hover {
     color: #0c843a;
     border-top: 2px solid #0c843a;
-    padding-top: 3.1vh;
+    padding-top: 3vh;
 }
 
 /* Header */
